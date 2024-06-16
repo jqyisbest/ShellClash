@@ -1,7 +1,7 @@
 #! /bin/bash
 # Copyright (C) Juewuy
 
-[ -z "$url" ] && url="https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master"
+[ -z "$url" ] && url="https://cdn.jsdelivr.net/gh/jqyisbest/ShellClash@master"
 type bash &>/dev/null && shtype=bash || shtype=sh 
 echo='echo -e' 
 [ -n "$(echo -e|grep e)" ] && {
